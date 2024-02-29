@@ -9,15 +9,15 @@ Welcome to my AWS WordPress website project! I built a robust and scalable WordP
 
 ### Key Features:
 
-AWS Infrastructure: Leveraging AWS services such as EC2, RDS, S3, and CloudFront to create a reliable and high-performance hosting environment for WordPress.
+AWS Infrastructure --> Leveraging AWS services such as EC2, RDS, S3, and CloudFront to create a reliable and high-performance hosting environment for WordPress.
 
-WordPress Setup: Setting up WordPress on AWS instances and configuring it for optimal performance and security.
+WordPress Setup --> Setting up WordPress on AWS instances and configuring it for optimal performance and security.
 
-Scalability: Implementing auto-scaling features and load balancing to handle varying levels of traffic efficiently.
+Scalability --> Implementing auto-scaling features and load balancing to handle varying levels of traffic efficiently.
 
-Security: Employing best practices for securing the WordPress installation and AWS infrastructure against common threats.
+Security --> Employing best practices for securing the WordPress installation and AWS infrastructure against common threats.
 
-Continuous Deployment: Integrating with CI/CD pipelines for automated deployment and updates.
+Continuous Deployment --> Integrating with CI/CD pipelines for automated deployment and updates.
 
 ## Project Steps 
 
