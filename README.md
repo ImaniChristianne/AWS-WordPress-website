@@ -24,10 +24,12 @@ Continuous Deployment: Integrating with CI/CD pipelines for automated deployment
 ### Create VPC 
 
 - [Create a Virtual Private Cloud (VPC)](https://docs.aws.amazon.com/vpc/latest/userguide/create-vpc.html )
-- configuring DNS hostnames, and attaching an Internet Gateway to the VPC for external connectivity.
-- We then proceed to establish two public subnets across two Availability Zones, ensuring that they are configured to auto-assign public IPv4 addresses.
-- A public route table is created and linked to the Internet Gateway, with subnet associations established to connect it with the public subnets.
-- Additionally, four private subnets are created, and we verify their association with the main route table to ensure proper network routing within the VPC.
+- Configure DNS hostnames
+- Attach an Internet Gateway to the VPC for external connectivity
+- Establish two public subnets across two Availability Zones, ensuring that they are configured to auto-assign public IPv4 addresses
+- Create a public route table and link it to the Internet Gateway, with subnet associations established to connect it with the public subnets
+- Create four private subnets and verify their association with the main route table to ensure proper network routing within the VPC.
+
 ### Create Nat Gateways
 ### Create the Security Groups
 ### Create the RDS Instance
