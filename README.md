@@ -5,7 +5,7 @@
 
 ## Project Description 
 
-Welcome to my AWS WordPress website project! I built a robust and scalable WordPress website hosted on AWS following a comprehensive tutorial by Azeez Salu on aosnote.com.
+Welcome to my AWS WordPress website project! I built a robust and scalable WordPress website hosted on AWS.
 
 ### Key Features:
 
@@ -39,7 +39,7 @@ To enable outbound internet access for resources in private subnets across multi
 - Associate this route table with the private subnets in AZ1 to establish connectivity
 - Repeat the process for Availability Zone 2 (AZ2)
 
-### Create the Security Groups
+### Create Security Groups
 
 - Create an ALB Security Group for Application Load Balancer (Port = 80 and 443)
 - Create an SSH Security Group (Port = 22)
@@ -118,11 +118,3 @@ To enable outbound internet access for resources in private subnets across multi
 
 - Under the Appearance section of the WordPress website, click themes.
 - Pick a theme and apply it
-
-## Credits
-
-The tutorials provided by Azeez Salu on aosnote.com were instrumental in the development of this project.
-
-Instructor: Azeez Salu
-Tutorial Source: aosnote.com
-GitHub Repository: Azeez Salu's Aosnote Projects
